@@ -1,0 +1,14 @@
+save yours in this folder!
+
+If you want to have multiple folders, be aware they need to be in the top directory (Serum Presets/Presets/) as there are no sub-sub-directories accessible directly from in Serum.
+
+So in other words, you could have:
+
+Serum Presets/Presets/User (this folder)
+Serum Presets/Presets/My Leads/
+Serum Presets/Presets/My Bass/
+
+but not:
+Serum Presets/Presets/User/My Leads/
+
+it is recommended to leave this “User” directory, as Serum attempts to open it when you click Save for a preset.
